@@ -1,0 +1,66 @@
+{
+    "Night Mode": {
+        "power": "on",
+        "brightness": 1,
+        "color_temp": 3200,
+        "rgb": [
+            0,
+            153,
+            255
+        ],
+        "hue": 36,
+        "sat": 100,
+        "color_mode": 1,
+        "flowing": 0,
+        "delayoff": 0,
+        "music_on": 0
+    },
+    "Movie": {
+        "power": "on",
+        "brightness": 50,
+        "color_temp": 3200,
+        "rgb": [
+            50,
+            20,
+            20
+        ],
+        "hue": 240,
+        "sat": 60,
+        "color_mode": 1,
+        "flowing": 0,
+        "delayoff": 0,
+        "music_on": 0
+    },
+    "Home": {
+        "power": "on",
+        "brightness": 80,
+        "color_temp": 3200,
+        "rgb": [
+            0,
+            102,
+            255
+        ],
+        "hue": 24,
+        "sat": 100,
+        "color_mode": 1,
+        "flowing": 0,
+        "delayoff": 0,
+        "music_on": 0
+    },
+    "Blanche": {
+        "power": "on",
+        "brightness": 100,
+        "color_temp": 6496,
+        "rgb": [
+            255,
+            255,
+            255
+        ],
+        "hue": 0,
+        "sat": 0,
+        "color_mode": 2,
+        "flowing": 0,
+        "delayoff": 0,
+        "music_on": 0
+    }
+}
